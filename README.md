@@ -1,2 +1,2 @@
-# Notebook
-Past and Current Sample Code 
+# portfolio
+About me page showing past projects 
