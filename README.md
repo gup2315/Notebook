@@ -1,2 +1,2 @@
-# portfolio
-About me page showing past projects 
+# Portfolio
+About Me landingpage showing current/past projects 
